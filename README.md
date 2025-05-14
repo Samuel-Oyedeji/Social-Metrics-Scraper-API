@@ -230,6 +230,6 @@ MIT License — feel free to use and modify 🚀
 ## 👤 Author
 
 **Oyedeji Samuel**  
-📫 [GitHub](https://github.com/Samuel-Oyedeji) • 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
+📫 [GitHub](https://github.com/Samuel-Oyedeji) • 🌐 [LinkedIn](www.linkedin.com/in/samuel-oyedeji004)
 
 ---

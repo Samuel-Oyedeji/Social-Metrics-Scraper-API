@@ -137,17 +137,23 @@ Or for Twitter/X:
 #### 📥 Sample Response (Twitter/X)
 ```json
 {
-  "platform": "x",
-  "followers": "1.2M",
-  "postCount": "25k",
-  "posts": [
-    {
-      "post": "/TwitterDev/status/1234567890",
-      "likes": "1.2k",
-      "comments": "300",
-      "retweets": "400"
-    }
-  ]
+  "success": true,
+  "data": {
+      "followers": "3,858,157",
+      "following": "3",
+      "tweetCount": "8,645,344",
+      "tweets": [
+          {
+              "post": "Messi",
+              "likes": "147965",
+              "retweets": "18170",
+              "replies": "1435",
+              "bookmarks": "2298",
+              "views": "2180283"
+          },
+      ]
+  },
+  "timestamp": "2025-05-14T09:54:10.641Z"
 }
 ```
 
@@ -223,7 +229,7 @@ MIT License — feel free to use and modify 🚀
 
 ## 👤 Author
 
-**Your Name**  
-📫 [GitHub](https://github.com/your-username) • 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
+**Oyedeji Samuel**  
+📫 [GitHub](https://github.com/Samuel-Oyedeji) • 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---

@@ -16,20 +16,24 @@ Send a profile URL and get back key metrics:
 
 ### 📸 Instagram
 - 📊 **Followers**
+- 📊 **Following**
 - 📝 **Post Count**
 - 🖼️ **Latest 15 Posts**
   - 💗 Likes
   - 💬 Comments
-  - 🔗 Post Link
+- 📝 **Timestamp**
 
 ### 🐦 Twitter (X)
 - 👥 **Followers**
+- 📊 **Following**
 - 📝 **Post Count**
 - 🧵 **Latest 15 Tweets**
   - 💗 Likes
   - 💬 Comments (Replies)
   - 🔁 Retweets
-  - 🔗 Tweet Link
+  - 💬 Bookmarks
+  - 🖼️ views
+
 
 ---
 
@@ -49,8 +53,8 @@ Send a profile URL and get back key metrics:
 ### 1. 📥 Clone This Repository
 
 ```bash
-git clone https://github.com/your-username/social-metrics-scraper.git
-cd social-metrics-scraper
+git clone https://github.com/Samuel-Oyedeji/Social-Metrics-Scraper-API.git
+cd Social-Metrics-Scraper-API
 ```
 
 ### 2. 📦 Install Dependencies

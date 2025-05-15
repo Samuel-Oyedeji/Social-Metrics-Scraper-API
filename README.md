@@ -76,7 +76,9 @@ Create a `.env` file in the root directory:
 ```env
 PORT=3000
 
-```Optional rotating proxy; omit or leave blank to skip proxy:
+Optional rotating proxy; omit or leave blank to skip proxy:
+
+```env
 PROXY=http://user:pass@proxyhost:port
 
 ```
@@ -92,8 +94,9 @@ npm run dev
 Your API is now running at:  
 📡 `http://localhost:3000/scrape`
 
-Go here for health checks
-📡 `http://localhost:3000/`
+API Health check at:  
+📡 `http://localhost:3000`
+
 ---
 
 ## 💻 API Usage

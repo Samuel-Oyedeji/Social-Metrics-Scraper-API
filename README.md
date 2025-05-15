@@ -78,8 +78,7 @@ PORT=3000
 
 Optional rotating proxy; omit or leave blank to skip proxy:
 
-```env
-PROXY=http://user:pass@proxyhost:port
+PROXY=http://user:password@proxyhost:port
 
 ```
 
